@@ -1,7 +1,7 @@
 # Cisco-Network-Lab
 
 Ce dépôt regroupe une série de **laboratoires et simulations réseau** réalisés avec **Cisco Packet Tracer**.  
-Il est conçu comme un support pédagogique et pratique pour l’apprentissage des concepts de base et avancés en administration réseau.
+Il est conçu comme un support pédagogique et pratique pour l’apprentissage des concepts de base et avancés en administration réseau, principalment dans mon passage de la certification CCNA.
 
 ---
 
